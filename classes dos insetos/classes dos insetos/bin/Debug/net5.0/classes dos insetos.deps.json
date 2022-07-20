@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "classes dos insetos/1.0.0": {
+        "runtime": {
+          "classes dos insetos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "classes dos insetos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

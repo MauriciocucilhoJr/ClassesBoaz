@@ -1,0 +1,16 @@
+D:\Curso generation\classes dos insetos\classes dos insetos\obj\Debug\net5.0\classes dos insetos.csproj.AssemblyReference.cache
+D:\Curso generation\classes dos insetos\classes dos insetos\obj\Debug\net5.0\classes dos insetos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso generation\classes dos insetos\classes dos insetos\obj\Debug\net5.0\classes dos insetos.AssemblyInfoInputs.cache
+D:\Curso generation\classes dos insetos\classes dos insetos\obj\Debug\net5.0\classes dos insetos.AssemblyInfo.cs
+D:\Curso generation\classes dos insetos\classes dos insetos\obj\Debug\net5.0\classes dos insetos.csproj.CoreCompileInputs.cache
+D:\Curso generation\classes dos insetos\classes dos insetos\bin\Debug\net5.0\classes dos insetos.exe
+D:\Curso generation\classes dos insetos\classes dos insetos\bin\Debug\net5.0\classes dos insetos.deps.json
+D:\Curso generation\classes dos insetos\classes dos insetos\bin\Debug\net5.0\classes dos insetos.runtimeconfig.json
+D:\Curso generation\classes dos insetos\classes dos insetos\bin\Debug\net5.0\classes dos insetos.runtimeconfig.dev.json
+D:\Curso generation\classes dos insetos\classes dos insetos\bin\Debug\net5.0\classes dos insetos.dll
+D:\Curso generation\classes dos insetos\classes dos insetos\bin\Debug\net5.0\classes dos insetos.pdb
+D:\Curso generation\classes dos insetos\classes dos insetos\obj\Debug\net5.0\classes dos insetos.dll
+D:\Curso generation\classes dos insetos\classes dos insetos\obj\Debug\net5.0\refint\classes dos insetos.dll
+D:\Curso generation\classes dos insetos\classes dos insetos\obj\Debug\net5.0\classes dos insetos.pdb
+D:\Curso generation\classes dos insetos\classes dos insetos\obj\Debug\net5.0\classes dos insetos.genruntimeconfig.cache
+D:\Curso generation\classes dos insetos\classes dos insetos\obj\Debug\net5.0\ref\classes dos insetos.dll
